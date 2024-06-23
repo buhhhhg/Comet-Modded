@@ -1,0 +1,3 @@
+@echo off
+
+py -m nuitka comet-source.py --standalone --onefile --output-filename="CometModded" --follow-import-to=random --follow-import-to=string --follow-import-to=json --follow-import-to=pymem --follow-import-to=psutil --follow-import-to=ctypes --follow-import-to=base64 --enable-plugins=tk-inter --follow-import-to=tkinter --follow-import-to=re --follow-import-to=time --show-memory --deployment --enable-plugins=anti-bloat --windows-icon-from-ico="C:\Users\kuda\Downloads\cometlogo.ico" --product-name="Comet Modded" --file-version=0.0.0.0 --file-description="Modded by k5utils"
