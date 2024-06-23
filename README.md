@@ -1,2 +1,2 @@
-# Comet-Modded
-Modded version of Comet, you can check if this shit has viruses on https://tria.ge - VirusTotal is inaccurate
+# DISCONTINUED
+# You can view the source code in Comet_Modded
